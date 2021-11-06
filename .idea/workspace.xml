@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de22b776-0550-40e2-bf81-1a7729d58d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/litao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/litao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/t1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/t1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/t1/bin/t1/Sffd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/t1/src/t1/Test1.java" beforeDir="false" />
+    <list default="true" id="de22b776-0550-40e2-bf81-1a7729d58d55" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +68,13 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -80,7 +89,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\47824\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635945476336</updated>
       <workItem from="1635945479114" duration="920000" />
-      <workItem from="1635946422424" duration="2768000" />
+      <workItem from="1635946422424" duration="5348000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1635945623923</created>
@@ -111,22 +120,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="11" key="CommitChangelistDialog2" timestamp="1635945622248">
+    <state x="372" y="11" key="CommitChangelistDialog2" timestamp="1636184157228">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1635945622248" />
+    <state x="372" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1636184157228" />
     <state x="549" y="164" key="FileChooserDialogImpl" timestamp="1635946391334">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="164" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1635946391334" />
-    <state x="270" y="60" key="SettingsEditor" timestamp="1635948484807">
+    <state x="270" y="60" width="995" height="714" key="SettingsEditor" timestamp="1636186239228">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1635948484807" />
+    <state x="270" y="60" width="995" height="714" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1636186239228" />
     <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1636183789266">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1636183789266" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1636186352933">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1636186352933" />
     <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635949046935">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
